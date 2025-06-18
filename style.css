@@ -1,0 +1,134 @@
+body {
+    font-family: sans-serif;
+    background-color:indigo ;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+color:navy;
+background-color:aqua ;
+}
+.res{
+
+width:125px;
+height:125px;
+float:left;
+
+}
+.cor{
+width:125px;
+height:125px;
+float:right;
+}
+
+h1{ text-align: center;}
+
+h2{
+text-align:center ;
+background-color: bisque;
+
+}
+.peperoni{
+color:white;
+width:200px;
+height:200px;
+}
+.cheese{
+color:white;
+width:200px ;
+height:200px;
+}
+.ananas{
+color:white;
+
+}
+.margaret{
+width:200px;
+height:200px ;
+
+}
+.ihak{
+width:200px;
+height:200px;
+
+}
+.imperator{
+width:200px;
+height:200px;
+
+}
+.normal{
+width:200px;
+height:200px;
+
+}
+.ovoc{
+width:200px;
+height:200px;
+
+}
+.ovocp{
+color:white;
+width:250px;
+
+}
+.normalp{
+color:white;
+width:250px;
+}
+.lococ{
+width:200px;
+height:200px;
+}
+.lococp{
+color:white;
+width:250px;
+
+}
+
+.imperatorp{
+color:white;
+width:250px;
+
+}
+.ihakp{
+color:white;
+width:250px;
+
+}
+.karbonarap{
+color:white;
+
+}
+    
+.peperonip{
+color:white;
+
+}
+.cheesep{
+color:white;
+
+}
+.mar{
+color:white;
+
+}
+a{
+color:yellow;
+background-color:black;
+padding: 10px;
+text-decoration: none;
+}
+section{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+article{
+    width:400px;
+    height:400px;
+}
+footer{
+background-color:greenyellow ;
+font-size:40px ;
+}
